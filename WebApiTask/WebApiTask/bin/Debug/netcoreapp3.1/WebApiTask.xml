@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiTask</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiTask.Controllers.ToDoItemController.QueryallAsync">
+            <summary>
+            Query all ToDoItem 
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiTask.Controllers.ToDoItemController.GetSpecifiedAsync(System.Int64)">
+            <summary>
+            Query ToDoItem by Id 
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiTask.Controllers.ToDoItemController.UpsertAsync(WebApiTask.ToDoItem)">
+            <summary>
+            Create a ToDoItem 
+            </summary>
+            <remarks>
+            In remarks, we can document some detail information
+            </remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
